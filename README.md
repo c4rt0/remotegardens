@@ -5,4 +5,7 @@ Many years ago I came up with an idea of completely automatic grow system for va
 
 In first stage of my aproach I need to implement simple system, which controlls irrigation conditions, but also takes under account certain environment factors (temperature & humidity). Values of most important parameters should be stored online for future investigation and record analysis. Furthermore, certain remote control should be avail in order to influence critical circumstances.
 
+In the future my aim is to implement photoresistors or other light sensing devices to monitor intensity and conditions of photosynthesis, also gas sensors and other sensing mechanisms to fully understand and record growing conditions. Moreover, software will allow user to differentiate between different plant species, with hardcoded initial values for NPK, temperature, humidity, pH and other ratios. Over time this idea will evolve, and new features will be implemented... now, let's start . saving our PLANET.
+
+
 ![](/images/REMOTE_GARDENS.com.jpeg)
