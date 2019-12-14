@@ -12,4 +12,4 @@ In the future my aim is to implement photoresistors or other light sensing devic
 
 Using "Fritzing" app I started playing around with schematics. First result of designing connections with my DHT11 sensor is seen below. I noticed here, that PIN's between DHT11 sensors vary (pins of my model of DHT11 from left : GND/DAT/VCC)
 
-![](/Connecting_DHT11_bb.jpg)
+![](/images/Connecting_DHT11_bb.jpg)
