@@ -10,10 +10,7 @@ In the future my aim is to implement photoresistors or other light sensing devic
 
 ![](/images/REMOTE_GARDENS.com.jpeg)
 
-Using "Fritzing" app I started playing around with schematics. First result of designing connections with my DHT11 sensor is seen below. I noticed here, that PIN's between DHT11 sensors vary (pins of my model of DHT11 from left : GND/DAT/VCC)
-
-![](/images/Connecting_DHT11_bb.jpg)
-
-Full schematics :
+Using "Fritzing" app I started playing around with schematics. Firstly I connected my DHT11 sensor with Raspberry Pi. I noticed than, that PIN's layouts between different models of DHT11 sensors vary - in my case (from left) it:s GND/DAT/VCC.
+Few days later full schematics looked like this :
 
 ![](/Fritizing/REMOTE_GARDENS_bb.png)
