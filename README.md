@@ -16,4 +16,4 @@ Using "Fritzing" app I started playing around with schematics. First result of d
 
 Full schematics :
 
-![](/Fritzing/REMOTE_GARDENS_bb.png)
+![](/Fritizing/REMOTE_GARDENS_bb.png)
