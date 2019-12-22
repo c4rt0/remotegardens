@@ -7,3 +7,5 @@ This misterious sounding sentence became very clear really rapidly. I found out 
 I could simply use Arduino which I already had in my arsenal. 
 
 Configuration of Arduino as a slave took a little bit of work - included in this folder is a i2c_slave file which was uploaded directly to Arduino through USB.
+
+![](/images/i2c_detection.jpg)
