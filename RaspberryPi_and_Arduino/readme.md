@@ -8,4 +8,6 @@ I could simply use Arduino which I already had in my arsenal.
 
 Configuration of Arduino as a slave took a little bit of work - included in this folder is a i2c_slave file which was uploaded directly to Arduino through USB.
 
+In order to check connectivity between Arduino and Pi after uploading i2c_slave we execute "sudo i2cdetect -y 1" command on Raspberry (result visible on the picture attached - bottom of terminal)
+
 ![](/images/i2c_detection.jpg)
