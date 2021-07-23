@@ -1,4 +1,4 @@
-# remotegardens.com
+# remotegardens
 Remote garden solution based on micro-controllers (remotegardens.com) 
 
 Video presentation available @ https://youtu.be/zsOXc0uMRTM 
